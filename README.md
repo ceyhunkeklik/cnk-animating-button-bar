@@ -88,7 +88,7 @@ export default class App extends Component {
 
 ## Preview
 
-<img src="https://raw.githubusercontent.com/ceyhunkeklik/cnk-animating-button-bar/master/cnkanimatedbuttonbar.gif" height="300">
+<img src="https://raw.githubusercontent.com/ceyhunkeklik/cnk-animating-button-bar/master/cnkanimatedbuttonbar.gif" height="600">
 
 ## License
 
