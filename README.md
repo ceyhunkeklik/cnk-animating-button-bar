@@ -88,6 +88,10 @@ export default class App extends Component {
 
 ## Preview
 
+### Pure Component
+<img src="https://raw.githubusercontent.com/ceyhunkeklik/cnk-animating-button-bar/master/cnkanimatedbuttonbar-horizontal.gif" width="445">
+
+### Like Tab Panel
 <img src="https://raw.githubusercontent.com/ceyhunkeklik/cnk-animating-button-bar/master/cnkanimatedbuttonbar.gif" height="600">
 
 ## License
